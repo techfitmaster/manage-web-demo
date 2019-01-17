@@ -1,4 +1,4 @@
-# -manage-web-demo
+# manage-web-demo
 
 > A Vue.js project
 
